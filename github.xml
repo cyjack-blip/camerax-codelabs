@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="c5bd34c4-b7d7-4310-a4f5-caa285793cd6" name="cyjack-blip">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
