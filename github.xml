@@ -3,5 +3,8 @@
     <account id="c5bd34c4-b7d7-4310-a4f5-caa285793cd6" name="cyjack-blip">
       <server host="github.com" />
     </account>
+    <account id="d00b6603-8bb5-42dc-b7a6-5b392173547a" name="cyjack-blip">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
 </application>
